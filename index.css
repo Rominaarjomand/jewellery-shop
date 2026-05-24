@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MyFont';
+    src: local('MyFont'), url(/src/Component/assets/BYekan.ttf) format('truetype');
+    /* other formats include: 'woff2', 'truetype, 'opentype',
+                              'embedded-opentype', and 'svg' */
+  }
+  *{
+    font-family: MyFont;
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+    
+  }

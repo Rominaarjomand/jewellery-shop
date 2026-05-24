@@ -1,0 +1,16 @@
+.newproductsbox{
+    background-color: #e5d1ac;
+    border-radius: 20px;
+}
+.newprd img{
+    border-radius: 15px;
+}
+.newprd{
+
+    border: 1px solid rgba(147, 147, 147, 0.585);
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+.imgallshop{
+    width: 75%;
+}

@@ -1,0 +1,510 @@
+{
+  "Menu": [
+    {
+      "id": "1",
+      "title": "خانه",
+      "href": "/"
+    },
+    {
+      "id": "2",
+      "title": "محصولات",
+      "href": "/Allshopproducts"
+    },
+    {
+      "id": "3",
+      "title": "تماس با ما",
+      "href": "Contact"
+    },
+    {
+      "id": "4",
+      "title": "درباره ما",
+      "href": "Aboutus"
+    }
+  ],
+  "Slider": [
+    {
+      "id": "1",
+      "title": "Slider1",
+      "src": "../src/Component/Slider/Sliderimage/slider1.jpg",
+      "alt": "slider1"
+    },
+    {
+      "id": "2",
+      "title": "Slider2",
+      "src": "../src/Component/Slider/Sliderimage/IMG_3802-scaled.webp",
+      "alt": "slider2"
+    }
+  ],
+  "Products": [
+    {
+      "id": "1",
+      "title": "گردنبند طلا",
+      "src": "../src/Component/Products/Productsimage/p1.jpg",
+      "alt": "گردنبند طلا",
+      "description": "توضیحات محصول 1",
+      "price": "12345000 "
+    },
+    {
+      "id": "2",
+      "title": "دستبند طلا",
+      "src": "../src/Component/Products/Productsimage/p2.jpg",
+      "alt": "دستبند طلا",
+      "description": "توضیحات محصول 2",
+      "price": "14196000 "
+    },
+    {
+      "id": "3",
+      "title": "انگشتر طلا",
+      "src": "../src/Component/Products/Productsimage/p3.jpg",
+      "alt": "انگشتر طلا",
+      "description": "توضیحات محصول 3",
+      "price": "8646000"
+    },
+    {
+      "id": "4",
+      "title": "گوشواره طلا",
+      "src": "../src/Component/Products/Productsimage/p4.jpg",
+      "alt": "گوشواره طلا",
+      "description": "توضیحات محصول 4",
+      "price": "9745000"
+    },
+    {
+      "id": "5",
+      "title": "رینگ طلا ست",
+      "src": "../src/Component/Products/Productsimage/p5.jpg",
+      "alt": "Product5",
+      "description": "توضیحات محصول 5",
+      "price": "3728000"
+    }
+  ],
+  "Collection": [
+    {
+      "id": "1",
+      "title": "کندو",
+      "src": "../src/Component/Collections/Collectionsimage/1.webp",
+      "alt": "کندو"
+    },
+    {
+      "id": "2",
+      "title": "فرکانس",
+      "src": "../src/Component/Collections/Collectionsimage/2.webp",
+      "alt": "فرکانس"
+    },
+    {
+      "id": "3",
+      "title": "گیسو",
+      "src": "../src/Component/Collections/Collectionsimage/3.webp",
+      "alt": "گیسو"
+    },
+    {
+      "id": "4",
+      "title": "تابش",
+      "src": "../src/Component/Collections/Collectionsimage/4.webp",
+      "alt": "تابش"
+    }
+  ],
+  "Allproducts": [
+    {
+      "id": "1",
+      "title": "گردنبند طلا مربع زنجیر ضربدری",
+      "src": "../src/Component/Allproducts/Allproductsimage/1.jpg",
+      "alt": "گردنبند طلا مربع زنجیر ضربدری",
+      "price": "51228000",
+      "description": "توضیحات محصول 1"
+    },
+    {
+      "id": "2",
+      "title": "گردنبند طلا مخروط",
+      "src": "../src/Component/Allproducts/Allproductsimage/2.jpg",
+      "alt": "گردنبند طلا مخروط",
+      "price": "8644000",
+      "description": "توضیحات محصول 2"
+    },
+    {
+      "id": "3",
+      "title": "گردنبند طلا دایره پولکی",
+      "src": "../src/Component/Allproducts/Allproductsimage/3.jpg",
+      "alt": "گردنبند طلا دایره پولکی",
+      "price": "29350000",
+      "description": "توضیحات محصول 3"
+    },
+    {
+      "id": "4",
+      "title": "گردنبند طلا قلب زیگورات",
+      "src": "../src/Component/Allproducts/Allproductsimage/4.jpg",
+      "alt": "گردنبند طلا قلب زیگورات",
+      "price": "9728000",
+      "description": "توضیحات محصول 4"
+    },
+    {
+      "id": "5",
+      "title": "زنجیر تخت پهن",
+      "src": "../src/Component/Allproducts/Allproductsimage/5.jpg",
+      "alt": "زنجیر تخت پهن",
+      "price": "197177000",
+      "description": "توضیحات محصول 5"
+    },
+    {
+      "id": "6",
+      "title": "ایرکاف مثلث",
+      "src": "../src/Component/Allproducts/Allproductsimage/6.jpg",
+      "alt": "ایرکاف مثلث",
+      "price": "13179000",
+      "description": "توضیحات محصول 6"
+    },
+    {
+      "id": "7",
+      "title": "ایرکاف هگزا",
+      "src": "../src/Component/Allproducts/Allproductsimage/7.jpg",
+      "alt": "ایرکاف هگزا",
+      "price": "4645000",
+      "description": "توضیحات محصول 7"
+    },
+    {
+      "id": "8",
+      "title": "ایرکاف ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/8.jpg",
+      "alt": "ایرکاف ماورا",
+      "price": "9766000",
+      "description": "توضیحات محصول 8"
+    },
+    {
+      "id": "9",
+      "title": "سوهان خورده",
+      "src": "../src/Component/Allproducts/Allproductsimage/9.jpg",
+      "alt": "سوهان خورده",
+      "price": "12347000",
+      "description": "توضیحات محصول 9"
+    },
+    {
+      "id": "10",
+      "title": "گردنبند طلا دایره توخالی سنگ‌دار",
+      "src": "../src/Component/Allproducts/Allproductsimage/10.jpg",
+      "alt": "گردنبند طلا دایره توخالی سنگ‌دار",
+      "price": "9728000",
+      "description": "توضیحات محصول 10"
+    },
+    {
+      "id": "11",
+      "title": "گردنبند طلا قلب نامنظم",
+      "src": "../src/Component/Allproducts/Allproductsimage/11.jpg",
+      "alt": "زنجیر تخت پهن",
+      "price": "17016000",
+      "description": "توضیحات محصول 11"
+    },
+    {
+      "id": "12",
+      "title": "گردنبند طلا گیسو",
+      "src": "../src/Component/Allproducts/Allproductsimage/12.jpg",
+      "alt": "گردنبند طلا گیسو",
+      "price": "55865000",
+      "description": "توضیحات محصول 12"
+    },
+    {
+      "id": "13",
+      "title": "گردنبند روما",
+      "src": "../src/Component/Allproducts/Allproductsimage/13.jpg",
+      "alt": "گردنبند روما",
+      "price": "4645000",
+      "description": "توضیحات محصول 13"
+    },
+    {
+      "id": "14",
+      "title": "ایرکاف ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/14.jpg",
+      "alt": "ایرکاف ماورا",
+      "price": "9766000",
+      "description": "توضیحات محصول 14"
+    },
+    {
+      "id": "15",
+      "title": "ایرکاف ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/15.jpg",
+      "alt": "ایرکاف ماورا",
+      "price": "9766000",
+      "description": "توضیحات محصول 15"
+    },
+    {
+      "id": "16",
+      "title": "ایرکاف ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/16.jpg",
+      "alt": "ایرکاف ماورا",
+      "price": "9766000",
+      "description": "توضیحات محصول 16"
+    },
+    {
+      "id": "17",
+      "title": "گوشواره طلا مکعب حلقه‌ای",
+      "src": "../src/Component/Allproducts/Allproductsimage/17.jpg",
+      "alt": "گوشواره طلا مکعب حلقه‌ای",
+      "price": "10766000",
+      "description": "توضیحات محصول 17"
+    },
+    {
+      "id": "18",
+      "title": "ایرکا ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/18.jpg",
+      "alt": "ایرکا ماورا",
+      "price": "96766000",
+      "description": "توضیحات محصول 18"
+    },
+    {
+      "id": "19",
+      "title": "ایرکاف ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/19.jpg",
+      "alt": "ایرکاف ماورا",
+      "price": "9766000",
+      "description": "توضیحات محصول 19"
+    },
+    {
+      "id": "20",
+      "title": "ایرکاف ماورا",
+      "src": "../src/Component/Allproducts/Allproductsimage/20.jpg",
+      "alt": "ایرکاف ماورا",
+      "price": "9766000",
+      "description": "توضیحات محصول 20"
+    }
+  ],
+  "Footer": [
+    {
+      "id": "1",
+      "pages": "درباره روما",
+      "srcp": "/about",
+      "supports": "حساب کاربری",
+      "srcs": "/profile",
+      "accessibility": "خرید انگشتر طلا",
+      "srca": "/products"
+    },
+    {
+      "id": "2",
+      "pages": "تماس با روما",
+      "srcp": "/contact",
+      "supports": "سوال‌های متداول",
+      "srcs": "/profile",
+      "accessibility": "خرید انگشتر طلا",
+      "srca": "/products"
+    },
+    {
+      "id": "3",
+      "pages": "شعب روما",
+      "srcp": "/",
+      "supports": "رهگیری مرسولات پستی",
+      "srcs": "https://tracking.post.ir/",
+      "accessibility": "خرید دستبند طلا",
+      "srca": "/products"
+    },
+    {
+      "id": "4",
+      "pages": "باشگاه مشتریان روما",
+      "srcp": "/",
+      "supports": "شرایط استفاده از حریم کاربران",
+      "srcs": "/",
+      "accessibility": "خرید گوشواره طلا",
+      "srca": "/products"
+    },
+    {
+      "id": "5",
+      "pages": "بلاگ",
+      "srcp": "/blog",
+      "supports": "قانون مندی کسب و کار اینترنتی",
+      "srcs": "/",
+      "accessibility": "خرید گردنبند طلا",
+      "srca": "/products"
+    },
+    {
+      "id": "6",
+      "pages": "همکاری با گالری روما",
+      "srcp": "/",
+      "supports": "راهنمای سایز",
+      "srcs": "/size",
+      "accessibility": "خرید طلا",
+      "srca": "/products"
+    }
+  ],
+  "ShopingCard": [],
+  "Users": [
+    {
+      "email": "morxxson@gmail.com",
+      "password": "83r5^_",
+      "username": "mor_69cfserfre",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "email": "kevin@gmail.com",
+      "username": "kevinryan",
+      "password": "kev02937@"
+    },
+    {
+      "id": "4",
+      "email": "don@gmail.com",
+      "username": "donero",
+      "password": "ewedon"
+    },
+    {
+      "email": "derek@gmail.com",
+      "password": "jklg*_56",
+      "username": "derekderfrf",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "email": "david_r@gmail.com",
+      "username": "david_r",
+      "password": "3478*#54"
+    },
+    {
+      "id": "7",
+      "email": "miriam@gmail.com",
+      "username": "snyder",
+      "password": "f238&@*$"
+    },
+    {
+      "id": "8",
+      "email": "william@gmail.com",
+      "username": "hopkins",
+      "password": "William56$hj"
+    },
+    {
+      "id": "9",
+      "email": "kate@gmail.com",
+      "username": "kate_h",
+      "password": "kfejk@*_"
+    },
+    {
+      "id": "10",
+      "email": "jimmie@gmail.com",
+      "username": "jimmie_k",
+      "password": "klein*#%*"
+    },
+    {
+      "email": "arjomandromina@gmail.com",
+      "password": "Romin@8017",
+      "username": "Romina8187",
+      "id": "0fcb"
+    },
+    {
+      "id": "be95",
+      "username": "Pooyan_hb",
+      "email": "Pooyanhb@gmail.com",
+      "password": "promncejnf"
+    },
+    {
+      "email": "Arjalirezyy@gmail.com",
+      "password": "t8907",
+      "username": "uiuuza",
+      "id": "7154"
+    },
+    {
+      "id": "d622",
+      "username": "sina890",
+      "email": "sinadaniali@gmail.com",
+      "password": "dcsdc"
+    },
+    {
+      "id": "b169",
+      "username": "saba45",
+      "email": "saba45@gmail.com",
+      "password": "kjcnrt"
+    },
+    {
+      "id": "ad9c",
+      "username": "aliiii",
+      "email": "Bhybty",
+      "password": "unju"
+    },
+    {
+      "id": "0bed",
+      "username": "tahmine178",
+      "email": "tahmine65@gmail.com",
+      "password": "t1616"
+    },
+    {
+      "id": "9f78",
+      "username": "tahmiine123",
+      "email": "tahmine@gmail.com",
+      "password": "t1616"
+    },
+    {
+      "id": "3cd3",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "8f62",
+      "username": "sina",
+      "email": "sinadaniali@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "c976",
+      "username": "yasamin12",
+      "email": "yasamin12@gmail.com",
+      "password": "yasi123"
+    }
+  ],
+  "Comments": [
+    {
+      "id": "1",
+      "name": "علی",
+      "username": "aliiii",
+      "email": "al3451i@gmail.com",
+      "comment": "بسیار رضایت داشتم"
+    },
+    {
+      "id": "c4a8",
+      "username": "Sana_3325",
+      "email": "Sana332@gmail.com",
+      "comment": "بسیار محصولات شیکی دارید"
+    },
+    {
+      "id": "5b45",
+      "username": "pouyan123",
+      "email": "Pooyan_hb@gmail.com",
+      "comment": "محصولات فوق العاده با کیفیت هستن"
+    },
+    {
+      "id": "cb58",
+      "username": "Romina8019",
+      "email": "romina@gmail.com",
+      "comment": "چقدر گردنبندا خوبننن"
+    },
+    {
+      "id": "958f",
+      "username": "Sana_3325",
+      "email": "dscsd@g.coom",
+      "comment": "قیمت دستبند لاو کارتیر چنده؟"
+    },
+    {
+      "id": "0fd3",
+      "username": "saba45",
+      "email": "SaEw2@gmail.com",
+      "comment": "لطفا پاسخگوی دایرکت باشید"
+    },
+    {
+      "id": "f0c1",
+      "username": "tahmine123",
+      "email": "tahmine1232@gmail.com",
+      "comment": "انگشتر ونکلیف هم دارید؟ چطوری حضوری بیام خدمتتون؟"
+    },
+    {
+      "id": "88ce",
+      "username": "asal4567",
+      "email": "asal@gmail.com",
+      "comment": "گردنبدا خیلی زیبا هستن.تشکر"
+    },
+    {
+      "id": "a1ca",
+      "username": "romina8978",
+      "email": "romina@gmail.com",
+      "comment": "سایت زیبایی است."
+    },
+    {
+      "id": "661a",
+      "username": "pooyan1649",
+      "email": "pooyan7689@gmail.com",
+      "comment": "وبسایت عالییییییییی بود."
+    }
+  ]
+}

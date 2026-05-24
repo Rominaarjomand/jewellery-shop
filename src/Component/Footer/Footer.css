@@ -1,0 +1,11 @@
+.logofooterstyle{
+    width: 80%;
+}
+.socialicon{
+    font-size: 20px;
+}
+.footerstyle a{
+   text-decoration: none;
+    border: none;
+    color: rgb(152, 152, 152);
+}

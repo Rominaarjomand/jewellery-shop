@@ -1,0 +1,40 @@
+.menu-bg{
+    background-color: rgb(248, 245, 230);
+    
+}
+.menuposition{
+    position:sticky;
+    top: -5px;
+    z-index: 99;
+}
+.logostyle{
+    width: 150px;
+    padding: 10px;
+    margin-top: 15px;
+}
+.iconsstyle span{
+font-size: 22px;
+padding-right: 15px;
+color: black;
+
+}
+
+.iconsstyle span, .liststylemenu li{
+   
+    padding:0 10px;
+}
+#menubtn{
+    width: 50px;
+}
+.goldstyle{
+    font-size: 14px;
+}
+.numberstyle{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    font-size: 15px;
+    display: inline-block;
+    color: red;
+}
